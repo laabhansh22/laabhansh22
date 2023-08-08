@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laabhansh22&label=Profile%20views&color=0e75b6&style=flat" alt="laabhansh22" /> </p>
 
-- 👨‍💻 available at [https://www.linkedin.com/in/laabhansh-jaiswal-576885234](https://www.linkedin.com/in/laabhansh-jaiswal-721506285)
+- 👨‍💻 available at [[https://www.linkedin.com/in/laabhansh-jaiswal-576885234](https://www.linkedin.com/in/laabhansh-jaiswal-721506285)]
 
 - 📫 How to reach me **laabhansh.jaiswal@gmail.com**
 
